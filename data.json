@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Mario company",
+    "logo": "http://placekitten.com/100/100?image=1",
+    "specialty": "Plumbing",
+    "city": "Rome"
+  },
+  {
+    "name": "Escavetor rls",
+    "logo": "http://placekitten.com/100/100?image=2",
+    "specialty": "Excavation",
+    "city": "Georgia"
+  },
+  {
+    "name": "Pipe company",
+    "logo": "http://placekitten.com/100/100?image=3",
+    "specialty": "Piping",
+    "city": "California"
+  },
+  {
+    "name": "Sonic Inc",
+    "logo": "http://placekitten.com/100/100?image=4",
+    "specialty": "Electrical",
+    "city": "New York"
+  },
+  {
+    "name": "International softwares",
+    "logo": "http://placekitten.com/100/100?image=5",
+    "specialty": "Software",
+    "city": "Budapest"
+  },
+  {
+    "name": "The Architect world",
+    "logo": "http://placekitten.com/100/100?image=6",
+    "specialty": "Architecture",
+    "city": "London"
+  }
+]
